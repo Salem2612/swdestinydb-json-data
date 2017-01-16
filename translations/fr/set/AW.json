@@ -73,7 +73,7 @@
     {
         "code": "01013",
         "name": "Etranglement de la Force",
-        "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât non blocable à une autre personnage. Puis vous pouvez tourner un de ses dés de personnage ou d'amélioration sur n'importe quelle face."
+        "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât non blocable à un autre personnage. Puis vous pouvez tourner un de ses dés de personnage ou d'amélioration sur n'importe quelle face."
     },
     {
         "code": "01014",
@@ -366,7 +366,7 @@
     {
         "code": "01067",
         "name": "Détonateur Thermique",
-        "text": "Pour jouer cette carte, désignez un personnage Jaune.\n[special] - Infligez 3 dégâts à chaque personnage d'une adversaire. Défaussez cette amélioration du jeu."
+        "text": "Pour jouer cette carte, désignez un personnage Jaune.\n[special] - Infligez 3 dégâts à chaque personnage d'un adversaire. Défaussez cette amélioration du jeu."
     },
     {
         "code": "01068",
